@@ -1,0 +1,31 @@
+			~~RESUME~~
+
+~Personal Details~
+
+FIRST NAME:	Dharam 
+Last Name:	Singh Meena
+DOB:		2*-0*-2000
+Contact No:	959944*1**
+Email id:	181210020@nitdelhi.ac.in
+Address:	South Delhi,India
+
+~Qualifications~
+Title			Institution			Marks
+Metric 			Kambsi Public School,delhi      92%
+10+2			Govt.Co.Ed.sr.sr.school 	90.2%
+Bachelor			Nit Delhi		INF
+
+~Work Experience~
+Company			Work Done			
+own			own project game cpp
+own			web app
+
+~Skills~
+HTML,CSS,JS
+c++
+AI
+
+~Hobbies~
+Coding , reading
+Exercise 
+Relax
